@@ -8,7 +8,5 @@ public class Main {
         System.out.println(service.checkAvailability("jane_smith")); // true
 
         System.out.println(service.suggestAlternatives("john_doe"));
-        System.out.println(service.getMostAttempted());
-
-    }
+        System.out.println(service.getMostAttempted());}
 }
