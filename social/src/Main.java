@@ -9,5 +9,6 @@ public class Main {
 
         System.out.println(service.suggestAlternatives("john_doe"));
         System.out.println(service.getMostAttempted());
+
     }
 }
